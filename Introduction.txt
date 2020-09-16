@@ -1,0 +1,24 @@
+Introduction/Business Problem
+
+Nigeria has started moving accross youth entrepreunership since few years now. The governement faced amongous problems on employing people because of the large number of the population but also because of corruption.
+
+Being entrepreneur envolved two special aspect. Succeed in ourside but also add a value to the society. To make sure having a successful business we need to know if our products or services will be consumed. And to add a value in society we need to know if our business will help people and are people ready to get envolved in it,  will I find easily employees, will this change lives here etc.
+
+The project that am going through is trying to satisfy  the questions:
+ - Where will this kind of business succeed in Lagos?
+ - Where will this kind of business creates more employment opportunity in Lagos?
+ - Where will people be must envolved by this in Lagos?
+ 
+And I've called it : Invest in Lagos: Where to land?
+
+I've selected Lagos because it can be easier to find data about activities there than in other towns. And also because, Lagos is a house of many differents clusters that represent the entire country.
+
+We'll grouped activities here in three areas:
+ - Luxury, fashion and beauty sector
+ - Agro Industrial sector
+ - Tech services, Bank and Insurance
+ 
+We are going to match luxury sector with residential neighborhoods and concurence, Agro industrial with downtowns or places were people are not living to much to reduce polution impact. and the tech services and bank to universities neighboorhoods and concurence. 
+
+PS: Am french speaker, so sorry for my wrong english, and I hope you understood the idea. :)
+
