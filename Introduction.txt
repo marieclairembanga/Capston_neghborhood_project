@@ -1,24 +1,11 @@
 Introduction/Business Problem
 
-Nigeria has started moving accross youth entrepreunership since few years now. The governement faced amongous problems on employing people because of the large number of the population but also because of corruption.
+The work of real estate agent has proudely grow through the years in our commuties, finding a property is a delicate job since there are many exigeances clients may have.
 
-Being entrepreneur envolved two special aspect. Succeed in ourside but also add a value to the society. To make sure having a successful business we need to know if our products or services will be consumed. And to add a value in society we need to know if our business will help people and are people ready to get envolved in it,  will I find easily employees, will this change lives here etc.
+This project is build to help real estate agents on finding the best property arccording to the client exigeances. foursquare API will help us to determine the neighborhood of a specified areas so as to 
+rank  rental property from the more convenient to the less, looking at client neighborhood criterion.
 
-The project that am going through is trying to satisfy  the questions:
- - Where will this kind of business succeed in Lagos?
- - Where will this kind of business creates more employment opportunity in Lagos?
- - Where will people be must envolved by this in Lagos?
- 
-And I've called it : Invest in Lagos: Where to land?
+Imangine a client who wants to rent or buy a property in Newyork, And this client wants the property to be not far from the bridge, near from a church, near from at least one vietnamese restaurant, and having nice public primary school and a grocery store around.
 
-I've selected Lagos because it can be easier to find data about activities there than in other towns. And also because, Lagos is a house of many differents clusters that represent the entire country.
-
-We'll grouped activities here in three areas:
- - Luxury, fashion and beauty sector
- - Agro Industrial sector
- - Tech services, Bank and Insurance
- 
-We are going to match luxury sector with residential neighborhoods and concurence, Agro industrial with downtowns or places were people are not living to much to reduce polution impact. and the tech services and bank to universities neighboorhoods and concurence. 
-
-PS: Am french speaker, so sorry for my wrong english, and I hope you understood the idea. :)
-
+There is when this project is going to help; it will try to satisfy the question:
+ - Which rental property is near of the most places needed by the client?
